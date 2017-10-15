@@ -6,8 +6,6 @@ El propósito del repositorio es cambiar Webpack para generar los ficheros de pr
 
 ## Instrucciones:
 
-- Cambiar assetsPublicPath: assetsPublicPath: 'dist'
-
 - npm install
 
 - npm run build
