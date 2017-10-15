@@ -1,4 +1,4 @@
-# vue-master-docs
+# vue-master
 
 Repositorio creado a partir de la [demo de Jose Dongil](https://github.com/jdonsan/charla-aprendiendo-vuejs) y la [guía](https://github.com/cristinafsanz/vuejs-primeros-pasos) que hice a partir de ella.
 
@@ -6,7 +6,7 @@ El propósito del repositorio es cambiar Webpack para generar los ficheros de pr
 
 ## Instrucciones:
 
-- Cambiar assetsPublicPath: assetsPublicPath: './'
+- Cambiar assetsPublicPath: assetsPublicPath: './dist'
 
 - npm install
 
